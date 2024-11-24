@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alshamrooq/static/css/main.7a435480.css",
+    "main.js": "/alshamrooq/static/js/main.8e95ba78.js",
+    "static/media/matrix.jpg": "/alshamrooq/static/media/matrix.0cacc0b433074e7f665c.jpg",
+    "static/media/3.jpg": "/alshamrooq/static/media/3.2474c78eb74a38426de1.jpg",
+    "static/media/2.jpg": "/alshamrooq/static/media/2.2ec6d0757cace81d913e.jpg",
+    "static/media/code.jpg": "/alshamrooq/static/media/code.77ef385572f115301a21.jpg",
+    "static/media/1.jpg": "/alshamrooq/static/media/1.f39ab2033aea87d03768.jpg",
+    "static/media/what-to-say-when-your-boyfriend-is-tired-from-work.jpg": "/alshamrooq/static/media/what-to-say-when-your-boyfriend-is-tired-from-work.627769dfc74d6f1916fb.jpg",
+    "static/media/d.png": "/alshamrooq/static/media/d.7991581461cfaf613571.png",
+    "index.html": "/alshamrooq/index.html",
+    "main.7a435480.css.map": "/alshamrooq/static/css/main.7a435480.css.map",
+    "main.8e95ba78.js.map": "/alshamrooq/static/js/main.8e95ba78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a435480.css",
+    "static/js/main.8e95ba78.js"
+  ]
+}
