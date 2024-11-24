@@ -1,0 +1,17 @@
+ 
+/* 
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+/* في ملف CSS الخاص بك أو داخل <style> */
+.custom-border-top {
+  border-top-width: 3.2px !important;  /* تعديل سمك البوردر */
+}
+
